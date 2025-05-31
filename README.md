@@ -71,6 +71,7 @@ type: software
 authors:
   - orcid: 'https://orcid.org/0009-0008-3641-130X'
     given-names: Andreea Cristina
+    DOI: 10.5281/zenodo.15561342
     family-names: Bonciu
     email: andreea.bonciu@muse.it
     affiliation: MUSE - Museo delle Scienze di Trento
